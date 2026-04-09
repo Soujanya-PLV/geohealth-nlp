@@ -18,3 +18,14 @@ This project extracts disease outbreaks from news headlines and maps them geogra
 ```bash
 pip install -r requirements.txt
 python main.py
+
+## 🌍 Interpretation
+
+This map represents spatial signals of disease outbreaks based on news mentions.
+
+Higher number of mentions in a location may indicate:
+- Increased reporting
+- Possible outbreak clusters
+- Areas requiring further investigation
+
+⚠️ Note: This is not confirmed epidemiological data, but an early signal detection approach.
